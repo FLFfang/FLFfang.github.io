@@ -3,31 +3,31 @@
         <title>我的全新 Hugo 网站</title>
         <link>https://FLFfang.github.io/</link>
         <description>这是我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 12 Mar 2024 13:22:41 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 14 Mar 2024 22:22:41 &#43;0800</lastBuildDate>
             <atom:link href="https://FLFfang.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Commit_posts_flow</title>
+    <link>https://FLFfang.github.io/commit_posts_flow/</link>
+    <pubDate>Thu, 14 Mar 2024 22:22:41 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://FLFfang.github.io/commit_posts_flow/</guid>
+    <description><![CDATA[commit_posts_flow hugo &ndash;theme=LoveIt &ndash;baseURL=&ldquo;https://FLFfang.github.io/" &ndash;buildDrafts cd public git init(第一次要) git add . git commit -m &ldquo;message&rdquo; git remote add origin git@github.com:FLFfang/FLFfang.github.io.git git push -u origin master]]></description>
+</item>
+<item>
+    <title>Mac_switch_JDK</title>
+    <link>https://FLFfang.github.io/mac_switch_jdk/</link>
+    <pubDate>Wed, 13 Mar 2024 22:22:41 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://FLFfang.github.io/mac_switch_jdk/</guid>
+    <description><![CDATA[Mac_switch_JDK 查看电脑上所有Java的版本 /usr/libexec/java_home -V ![image-20240314161315944](/Users/suer/Library/Application Support/typora-user-images/image-20240314161315944.png) 查看当前Java版本 java -version ![image-20240314161423912](/Users/suer/Library/Application Support/typora-user-images/image-20240314161423912.png) 切换版本 1 2 3 4 *# 切换到 1.8* export JAVA_HOME=`/usr/libexec/java_home -v 1.8` *# 切换到 17* export JAVA_HOME=`/usr/libexec/java_home -v 17` 设置成全局 1 2 3 4 5 6]]></description>
+</item>
+<item>
     <title>First_post</title>
     <link>https://FLFfang.github.io/first_post/</link>
     <pubDate>Tue, 12 Mar 2024 13:22:41 &#43;0800</pubDate>
     <author>xxxx</author>
     <guid>https://FLFfang.github.io/first_post/</guid>
-    <description><![CDATA[hello hugo]]></description>
-</item>
-<item>
-    <title></title>
-    <link>https://FLFfang.github.io/commit_posts_flow/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>xxxx</author>
-    <guid>https://FLFfang.github.io/commit_posts_flow/</guid>
-    <description><![CDATA[title = &lsquo;Commit_posts_flow&rsquo; date = 2024-03-14T22:22:41+08:00 draft = true commit_posts_flow hugo &ndash;theme=LoveIt &ndash;baseURL=&ldquo;https://FLFfang.github.io/" &ndash;buildDrafts cd public git init(第一次要) git add . git commit -m &ldquo;message&rdquo; git remote add origin git@github.com:FLFfang/FLFfang.github.io.git git push -u origin master]]></description>
-</item>
-<item>
-    <title></title>
-    <link>https://FLFfang.github.io/mac_switch_jdk/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-    <author>xxxx</author>
-    <guid>https://FLFfang.github.io/mac_switch_jdk/</guid>
-    <description><![CDATA[title = &lsquo;Mac_switch_JDK&rsquo; date = 2024-03-13T22:22:41+08:00 draft = true Mac_switch_JDK 查看电脑上所有Java的版本 /usr/libexec/java_home -V ![image-20240314161315944](/Users/suer/Library/Application Support/typora-user-images/image-20240314161315944.png) 查看当前Java版本 java -version ![image-20240314161423912](/Users/suer/Library/Application Support/typora-user-images/image-20240314161423912.png) 切换版本 1 2 3 4 *# 切换到 1.8* export JAVA_HOME=`/usr/libexec/java_home -v 1.8` *# 切换到 17* export JAVA_HOME=`/usr/libexec/java_home -v 17` 设置]]></description>
+    <description><![CDATA[内容是 Markdown 格式的，`+++之间的内容是 [TOML](https://github.com/toml-lang/toml) 格式的，根据你的喜好，你可以换成 [YAML](http://www.yaml.org/) 格式（使用&mdash;` 标记）或者 JSON 格式。]]></description>
 </item>
 </channel>
 </rss>

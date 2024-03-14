@@ -1,8 +1,5 @@
-# 
+# Mac_switch_JDK
 
-title = 'Mac_switch_JDK'
-date = 2024-03-13T22:22:41+08:00
-draft = true
 
 # Mac_switch_JDK
 

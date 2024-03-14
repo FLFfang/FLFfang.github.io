@@ -2,10 +2,10 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://FLFfang.github.io/commit_posts_flow/</loc><lastmod>2024-03-14T22:22:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://FLFfang.github.io/posts/</loc><lastmod>2024-03-14T22:22:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://FLFfang.github.io/</loc><lastmod>2024-03-14T22:22:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://FLFfang.github.io/mac_switch_jdk/</loc><lastmod>2024-03-13T22:22:41&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://FLFfang.github.io/first_post/</loc><lastmod>2024-03-14T21:58:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://FLFfang.github.io/posts/</loc><lastmod>2024-03-14T21:58:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://FLFfang.github.io/</loc><lastmod>2024-03-14T21:58:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://FLFfang.github.io/commit_posts_flow/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://FLFfang.github.io/mac_switch_jdk/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://FLFfang.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://FLFfang.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

@@ -1,8 +1,5 @@
-# 
+# Commit_posts_flow
 
-title = 'Commit_posts_flow'
-date = 2024-03-14T22:22:41+08:00
-draft = true
 
 # commit_posts_flow
 
