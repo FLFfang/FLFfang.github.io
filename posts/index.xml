@@ -13,11 +13,19 @@
 </item>
 <item>
     <title></title>
-    <link>https://FLFfang.github.io/%E6%8F%90%E4%BA%A4%E6%96%87%E7%AB%A0git%E6%B5%81%E7%A8%8B/</link>
+    <link>https://FLFfang.github.io/commit_posts_flow/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>xxxx</author>
-    <guid>https://FLFfang.github.io/%E6%8F%90%E4%BA%A4%E6%96%87%E7%AB%A0git%E6%B5%81%E7%A8%8B/</guid>
-    <description><![CDATA[提交文章git流程 hugo &ndash;theme=LoveIt &ndash;baseURL=&ldquo;https://FLFfang.github.io/" &ndash;buildDrafts cd public git init(第一次要) git add . git commit -m &ldquo;message&rdquo; git remote add origin git@github.com:FLFfang/FLFfang.github.io.git git push -u origin master]]></description>
+    <guid>https://FLFfang.github.io/commit_posts_flow/</guid>
+    <description><![CDATA[title = &lsquo;Commit_posts_flow&rsquo; date = 2024-03-14T22:22:41+08:00 draft = true commit_posts_flow hugo &ndash;theme=LoveIt &ndash;baseURL=&ldquo;https://FLFfang.github.io/" &ndash;buildDrafts cd public git init(第一次要) git add . git commit -m &ldquo;message&rdquo; git remote add origin git@github.com:FLFfang/FLFfang.github.io.git git push -u origin master]]></description>
+</item>
+<item>
+    <title></title>
+    <link>https://FLFfang.github.io/mac_switch_jdk/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>xxxx</author>
+    <guid>https://FLFfang.github.io/mac_switch_jdk/</guid>
+    <description><![CDATA[title = &lsquo;Mac_switch_JDK&rsquo; date = 2024-03-13T22:22:41+08:00 draft = true Mac_switch_JDK 查看电脑上所有Java的版本 /usr/libexec/java_home -V ![image-20240314161315944](/Users/suer/Library/Application Support/typora-user-images/image-20240314161315944.png) 查看当前Java版本 java -version ![image-20240314161423912](/Users/suer/Library/Application Support/typora-user-images/image-20240314161423912.png) 切换版本 1 2 3 4 *# 切换到 1.8* export JAVA_HOME=`/usr/libexec/java_home -v 1.8` *# 切换到 17* export JAVA_HOME=`/usr/libexec/java_home -v 17` 设置]]></description>
 </item>
 </channel>
 </rss>
